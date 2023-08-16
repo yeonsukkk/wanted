@@ -6,7 +6,7 @@ export default function Signup() {
         <form>
           <ul>
             <li>
-              <label htmlFor='userEmail'>이메일</label>
+              <label htmlFor='userEmail'>이메일test</label>
               <input type='text' id='userEmail' data-testid='email-input' />
             </li>
           </ul>
